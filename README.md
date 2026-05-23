@@ -1,35 +1,34 @@
 # Hi, I'm Arjun Krishna 👋
 
-I’m an aspiring AI/ML and software developer based in Ireland, focused on building practical projects across data analytics, machine learning, full-stack development and AI-powered applications.
+I’m a Full Stack Developer based in Ireland with experience across healthcare, logistics, and software training domains.
 
-I enjoy working on projects that connect software with real-world problems — especially in healthcare, finance, manufacturing, business intelligence and sensor-based systems.
+I enjoy building practical software solutions that solve real problems. My current focus is on full-stack development, AI integration, data analytics, and deep learning applications. I’m also developing a strong interest in robotics, AI simulation, and intelligent agent-based systems.
 
 ## Current Focus
 
-- Building practical AI/ML and data analytics projects
-- Learning .NET backend development with ASP.NET Core
-- Improving React frontend and full-stack project structure
-- Exploring RAG, LLM applications and AI agents
-- Learning cloud deployment, Docker and CI/CD
-- Building towards future work in robotics and AI simulation
+- Full-stack application development
+- AI/ML and deep learning projects
+- AI agent integration and RAG-based applications
+- .NET backend development
+- React frontend development
+- Data analytics and business intelligence
+- Cloud-ready project development using Docker and CI/CD
 
 ## Future Interests
 
-I am especially interested in:
+I am currently exploring and planning to build projects around:
 
 - LLM-powered AI agents
-- RAG-based knowledge assistants
+- RAG-based document intelligence systems
 - Medical and finance AI applications
-- Robotics software
+- Robotics software foundations
 - AI simulation environments
-- Autonomous systems
-- Human-AI interaction
-
-My long-term goal is to combine **software engineering, AI and simulation** to build intelligent systems that can support decision-making, automation and real-world problem solving.
+- Predictive maintenance systems
+- Autonomous and intelligent decision-support systems
 
 ## Tech Stack
 
-### Programming and Backend
+### Programming & Backend
 - Python
 - C#
 - JavaScript
@@ -43,27 +42,27 @@ My long-term goal is to combine **software engineering, AI and simulation** to b
 - CSS
 - Bootstrap
 
-### Data Analytics and Machine Learning
-- Pandas
-- NumPy
+### AI / Machine Learning
 - Scikit-learn
 - TensorFlow / Keras
-- Matplotlib
-- Seaborn
-- Imbalanced-learn
-- PCA
+- Deep Learning
 - Classification
 - Clustering
-- Anomaly detection
+- PCA
+- Anomaly Detection
+- NLP
+- Computer Vision
 
-### Business Intelligence and Visualisation
+### Data Analytics & Visualisation
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 - Tableau
 - Power BI
 - Folium
-- Dashboard development
-- Data storytelling
 
-### Databases and Tools
+### Databases & Tools
 - SQL Server
 - PostgreSQL
 - MongoDB
@@ -74,24 +73,32 @@ My long-term goal is to combine **software engineering, AI and simulation** to b
 ### Currently Learning
 - ASP.NET Core
 - Docker
-- Azure / AWS cloud fundamentals
+- Azure / AWS fundamentals
 - GitHub Actions
 - RAG systems
 - AI agents
 - Microsoft Semantic Kernel / LangChain
-- Robotics simulation concepts
+- Robotics and AI simulation concepts
+
+## Experience Background
+
+- Full Stack Developer - Logistics domain
+- Software Engineer - Healthcare domain
+- MERN Stack Training Assistant
+- MSc Data Science and Analytics
+- BTech Mechanical Engineering
 
 ## Featured Projects
 
 ### Pharmacy Sales Analytics Dashboard
-Python and Tableau-based business intelligence project analysing pharmacy transaction data, revenue trends, branch KPIs, customer demographics, GIS mapping and Sankey flow analysis.
+Python and Tableau-based business intelligence project analysing pharmacy transaction data, revenue trends, branch KPIs, GIS mapping, customer demographics and Sankey flow analysis.
 
 [View Project](https://github.com/arjunck/pharmacy-bi-dashboard-python-tableau)
 
 ---
 
 ### SECOM Semiconductor Fault Detection
-Machine learning pipeline for semiconductor fault detection using PCA, SMOTE, clustering, k-NN, Decision Tree and SVM.
+Machine learning pipeline for semiconductor fault detection using PCA, clustering, SMOTE, k-NN, Decision Tree and SVM.
 
 [View Project](https://github.com/arjunck/secom-semiconductor-fault-detection)
 
@@ -105,27 +112,32 @@ PCA-based dimensionality reduction and clustering analysis of gas sensor drift d
 ---
 
 ### Human Activity Recognition with Smartphones
-PCA and LDA-based analysis of smartphone sensor data for human activity recognition.
+PCA and LDA-based machine learning analysis of smartphone sensor data for human activity recognition.
 
 [View Project](https://github.com/arjunck/Human-Activity-Recognition-with-Smartphones)
 
 ---
 
 ### Daily Sports Activity PCA Analysis
-Wearable sensor data analysis using PCA, LDA and clustering to identify activity patterns.
+Wearable sensor data analysis using PCA, LDA and clustering to identify daily and sports activity patterns.
 
 [View Project](https://github.com/arjunck/daily-sports-activity-pca-analysis)
 
 ---
 
 ### Chest X-Ray Anomaly Detection
-Medical image anomaly detection using an autoencoder and PCA reconstruction error baseline.
+Medical image anomaly detection using a convolutional autoencoder and PCA reconstruction error baseline.
 
 [View Project](https://github.com/arjunck/chest-xray-anomaly-detection-autoencoder)
 
-## Project Direction
+## Next Major Project
 
-I am currently working towards building a stronger full-stack AI project using:
+I am currently planning a full-stack AI project:
+
+### MediClaim AI
+Medical Document Assistant and Claim Risk Explainer
+
+Planned stack:
 
 ```text
 React
