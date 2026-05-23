@@ -1,150 +1,39 @@
 # Hi, I'm Arjun Krishna 👋
 
-I’m a Full Stack Developer based in Ireland with experience across healthcare, logistics, and software training domains.
+Full Stack Developer based in Ireland, interested in AI/ML, data analytics, AI agents, RAG, robotics and simulation.
 
-I enjoy building practical software solutions that solve real problems. My current focus is on full-stack development, AI integration, data analytics, and deep learning applications. I’m also developing a strong interest in robotics, AI simulation, and intelligent agent-based systems.
+## About Me
 
-## Current Focus
-
-- Full-stack application development
-- AI/ML and deep learning projects
-- AI agent integration and RAG-based applications
-- .NET backend development
-- React frontend development
-- Data analytics and business intelligence
-- Cloud-ready project development using Docker and CI/CD
-
-## Future Interests
-
-I am currently exploring and planning to build projects around:
-
-- LLM-powered AI agents
-- RAG-based document intelligence systems
-- Medical and finance AI applications
-- Robotics software foundations
-- AI simulation environments
-- Predictive maintenance systems
-- Autonomous and intelligent decision-support systems
-
-## Tech Stack
-
-### Programming & Backend
-- Python
-- C#
-- JavaScript
-- SQL
-- ASP.NET Core Web API
-- Node.js
-
-### Frontend
-- React
-- HTML
-- CSS
-- Bootstrap
-
-### AI / Machine Learning
-- Scikit-learn
-- TensorFlow / Keras
-- Deep Learning
-- Classification
-- Clustering
-- PCA
-- Anomaly Detection
-- NLP
-- Computer Vision
-
-### Data Analytics & Visualisation
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Tableau
-- Power BI
-- Folium
-
-### Databases & Tools
-- SQL Server
-- PostgreSQL
-- MongoDB
-- Git
-- GitHub
-- Jupyter Notebook
-
-### Currently Learning
-- ASP.NET Core
-- Docker
-- Azure / AWS fundamentals
-- GitHub Actions
-- RAG systems
-- AI agents
-- Microsoft Semantic Kernel / LangChain
-- Robotics and AI simulation concepts
-
-## Experience Background
-
-- Full Stack Developer - Logistics domain
-- Software Engineer - Healthcare domain
-- MERN Stack Training Assistant
-- MSc Data Science and Analytics
-- BTech Mechanical Engineering
+| Area | Details |
+|---|---|
+| Current Focus | Full-stack development, AI/ML, data analytics |
+| Backend | C#, ASP.NET Core, Node.js, SQL |
+| Frontend | React, HTML, CSS, Bootstrap |
+| AI / ML | Python, Scikit-learn, TensorFlow/Keras, PCA, classification, clustering |
+| Data & BI | Pandas, NumPy, Tableau, Power BI, Matplotlib, Seaborn |
+| Learning Now | .NET, Docker, Azure/AWS, GitHub Actions, RAG, AI agents |
+| Future Interest | Robotics, AI simulation, autonomous systems |
 
 ## Featured Projects
 
-### Pharmacy Sales Analytics Dashboard
-Python and Tableau-based business intelligence project analysing pharmacy transaction data, revenue trends, branch KPIs, GIS mapping, customer demographics and Sankey flow analysis.
+| Project | Tech / Focus |
+|---|---|
+| [Pharmacy BI Dashboard](https://github.com/arjunck/pharmacy-bi-dashboard-python-tableau) | Python, Tableau, sales analytics, GIS, Sankey |
+| [SECOM Fault Detection](https://github.com/arjunck/secom-semiconductor-fault-detection) | PCA, SMOTE, SVM, industrial ML |
+| [Gas Sensor Drift PCA](https://github.com/arjunck/gas-sensor-drift-pca-analysis) | Sensor data, PCA, clustering |
+| [Human Activity Recognition](https://github.com/arjunck/Human-Activity-Recognition-with-Smartphones) | Smartphone sensors, PCA, LDA |
+| [Daily Sports Activity PCA](https://github.com/arjunck/daily-sports-activity-pca-analysis) | Wearable sensors, PCA, clustering |
+| [Chest X-Ray Anomaly Detection](https://github.com/arjunck/chest-xray-anomaly-detection-autoencoder) | Autoencoder, PCA, medical imaging |
 
-[View Project](https://github.com/arjunck/pharmacy-bi-dashboard-python-tableau)
+## Next Project
 
----
+| Project | Planned Stack |
+|---|---|
+| MediClaim AI | React, ASP.NET Core Web API, SQL, RAG, AI Agents, Docker, Azure/AWS |
 
-### SECOM Semiconductor Fault Detection
-Machine learning pipeline for semiconductor fault detection using PCA, clustering, SMOTE, k-NN, Decision Tree and SVM.
+## Connect
 
-[View Project](https://github.com/arjunck/secom-semiconductor-fault-detection)
-
----
-
-### Gas Sensor Drift PCA Analysis
-PCA-based dimensionality reduction and clustering analysis of gas sensor drift data using Python and Scikit-learn.
-
-[View Project](https://github.com/arjunck/gas-sensor-drift-pca-analysis)
-
----
-
-### Human Activity Recognition with Smartphones
-PCA and LDA-based machine learning analysis of smartphone sensor data for human activity recognition.
-
-[View Project](https://github.com/arjunck/Human-Activity-Recognition-with-Smartphones)
-
----
-
-### Daily Sports Activity PCA Analysis
-Wearable sensor data analysis using PCA, LDA and clustering to identify daily and sports activity patterns.
-
-[View Project](https://github.com/arjunck/daily-sports-activity-pca-analysis)
-
----
-
-### Chest X-Ray Anomaly Detection
-Medical image anomaly detection using a convolutional autoencoder and PCA reconstruction error baseline.
-
-[View Project](https://github.com/arjunck/chest-xray-anomaly-detection-autoencoder)
-
-## Next Major Project
-
-I am currently planning a full-stack AI project:
-
-### MediClaim AI
-Medical Document Assistant and Claim Risk Explainer
-
-Planned stack:
-
-```text
-React
-ASP.NET Core Web API
-SQL Server / PostgreSQL
-RAG
-AI agents
-Docker
-Azure / AWS
-GitHub Actions
+| Platform | Link |
+|---|---|
+| LinkedIn | https://www.linkedin.com/in/arjjunck |
+| Portfolio | https://arjjunck.github.io/devportfolio/ |
