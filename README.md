@@ -1,6 +1,13 @@
-# Hi, I'm Arjun Krishna 👋
+# Hi, I'm Arjun
 
-Full Stack Developer based in Ireland, interested in AI/ML, data analytics, AI agents, RAG, robotics and simulation.
+I’m a Full Stack Developer based in Ireland with experience across healthcare, logistics, and software training domains. I enjoy building practical software solutions that solve real problems, especially where software, data, and AI can improve decision-making or automate repetitive work.
+
+My background combines full-stack development, data analytics, machine learning, and deep learning. I have worked on projects involving predictive maintenance, sensor data analysis, business intelligence dashboards, medical imaging, NLP, and industrial fault detection.
+
+I started with software development and gradually moved deeper into AI and data-driven applications. At the moment, I am focusing on building stronger full-stack applications using **.NET, React, SQL, Docker, cloud deployment, RAG, and AI agents**.
+
+I’m also interested in the future of **robotics, AI simulation, autonomous systems, and intelligent agents**. My long-term goal is to build systems that connect software engineering, AI, automation, and real-world problem solving.
+
 
 ## About Me
 
@@ -14,18 +21,7 @@ Full Stack Developer based in Ireland, interested in AI/ML, data analytics, AI a
 | Learning Now | .NET, Docker, Azure/AWS, GitHub Actions, RAG, AI agents |
 | Future Interest | Robotics, AI simulation, autonomous systems |
 
-## Featured Projects
-
-| Project | Tech / Focus |
-|---|---|
-| [Pharmacy BI Dashboard](https://github.com/arjunck/pharmacy-bi-dashboard-python-tableau) | Python, Tableau, sales analytics, GIS, Sankey |
-| [SECOM Fault Detection](https://github.com/arjunck/secom-semiconductor-fault-detection) | PCA, SMOTE, SVM, industrial ML |
-| [Gas Sensor Drift PCA](https://github.com/arjunck/gas-sensor-drift-pca-analysis) | Sensor data, PCA, clustering |
-| [Human Activity Recognition](https://github.com/arjunck/Human-Activity-Recognition-with-Smartphones) | Smartphone sensors, PCA, LDA |
-| [Daily Sports Activity PCA](https://github.com/arjunck/daily-sports-activity-pca-analysis) | Wearable sensors, PCA, clustering |
-| [Chest X-Ray Anomaly Detection](https://github.com/arjunck/chest-xray-anomaly-detection-autoencoder) | Autoencoder, PCA, medical imaging |
-
-## Next Project
+## On-going Project
 
 | Project | Planned Stack |
 |---|---|
