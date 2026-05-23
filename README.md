@@ -1,12 +1,6 @@
 # Hi, I'm Arjun
 
-I’m a Full Stack Developer based in Ireland with experience across healthcare, logistics, and software training domains. I enjoy building practical software solutions that solve real problems, especially where software, data, and AI can improve decision-making or automate repetitive work.
-
-My background combines full-stack development, data analytics, machine learning, and deep learning. I have worked on projects involving predictive maintenance, sensor data analysis, business intelligence dashboards, medical imaging, NLP, and industrial fault detection.
-
-I started with software development and gradually moved deeper into AI and data-driven applications. At the moment, I am focusing on building stronger full-stack applications using **.NET, React, SQL, Docker, cloud deployment, RAG, and AI agents**.
-
-I’m also interested in the future of **robotics, AI simulation, autonomous systems, and intelligent agents**. My long-term goal is to build systems that connect software engineering, AI, automation, and real-world problem solving.
+I’m a Full Stack Developer based in Ireland with experience across healthcare, logistics, and software training domains. I enjoy building practical software solutions that solve real problems, especially where software, data, and AI can improve decision-making or automate repetitive work. My background combines full-stack development, data analytics, machine learning, and deep learning. I have worked on projects involving predictive maintenance, sensor data analysis, business intelligence dashboards, medical imaging, NLP, and industrial fault detection. I started my career with software development and gradually moved deeper into AI and data-driven applications. At the moment, I am focusing on building stronger full-stack applications using **.NET, React, SQL, Docker, cloud deployment, RAG, and AI agents**. I’m also interested in **robotics, AI simulation, autonomous systems, and intelligent agents**. My long-term goal is to build systems that connect software engineering, AI, automation, and real-world problem solving.
 
 
 ## About Me
@@ -21,15 +15,9 @@ I’m also interested in the future of **robotics, AI simulation, autonomous sys
 | Learning Now | .NET, Docker, Azure/AWS, GitHub Actions, RAG, AI agents |
 | Future Interest | Robotics, AI simulation, autonomous systems |
 
-## On-going Project
-
-| Project | Planned Stack |
-|---|---|
-| MediClaim AI | React, ASP.NET Core Web API, SQL, RAG, AI Agents, Docker, Azure/AWS |
 
 ## Connect
 
 | Platform | Link |
 |---|---|
 | LinkedIn | https://www.linkedin.com/in/arjjunck |
-| Portfolio | https://arjjunck.github.io/devportfolio/ |
