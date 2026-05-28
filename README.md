@@ -1,17 +1,47 @@
-# Hi, I'm Arjun
+# Hi, I'm Arjun 👋
 
-Full Stack Developer focused on .NET, React, SQL, and AI-powered applications.
+Full Stack Developer based in Ireland.
 
-I enjoy building software that combines data, automation, and AI to solve real-world problems. Currently exploring RAG systems, AI agents, cloud technologies, and robotics.
+I enjoy building applications that combine software, data, and AI to solve real-world problems. My work focuses on .NET, React, SQL, and AI-powered systems, with a particular interest in document intelligence, analytics, and automation.
 
-### Tech
-C# • ASP.NET Core • React • TypeScript • Python • PostgreSQL • SQL • Power BI
+Currently building:
+- AI-powered business and healthcare applications
+- Full-stack web applications using .NET and React
+- RAG and AI agent solutions
 
-### Current Project
- MediClaim AI – Medical document intelligence and claims analysis platform
+Currently learning:
+- Advanced RAG architectures
+- Cloud deployment and DevOps
+- Robotics and autonomous systems
 
-### Learning
-AI Agents • Advanced RAG • Cloud & DevOps • Robotics
+## Tech Stack
 
-### Connect
+**Backend**
+- C#
+- ASP.NET Core
+- Node.js
+- SQL
+
+**Frontend**
+- React
+- TypeScript
+- HTML/CSS
+
+**AI & Data**
+- Python
+- Scikit-learn
+- TensorFlow
+- Power BI
+- PostgreSQL
+
+## Featured Projects
+
+### MediClaim AI
+AI-powered medical document and claims analysis platform with document processing, claim risk assessment, and RAG-based document Q&A.
+
+### Gas Sensor Drift Analysis
+Machine learning and PCA-based analysis of gas sensor drift using clustering and dimensionality reduction techniques.
+
+## Connect
+
 LinkedIn: www.linkedin.com/in/arjunck
