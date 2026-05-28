@@ -1,47 +1,37 @@
-# Hi, I'm Arjun 👋
+# Hi, I'm Arjun 
 
-Full Stack Developer based in Ireland.
+Full Stack Developer based in Ireland with an interest in building practical software solutions using modern web technologies, data analytics, and AI.
 
-I enjoy building applications that combine software, data, and AI to solve real-world problems. My work focuses on .NET, React, SQL, and AI-powered systems, with a particular interest in document intelligence, analytics, and automation.
-
-Currently building:
-- AI-powered business and healthcare applications
-- Full-stack web applications using .NET and React
-- RAG and AI agent solutions
-
-Currently learning:
-- Advanced RAG architectures
-- Cloud deployment and DevOps
-- Robotics and autonomous systems
+I enjoy developing applications that solve real-world problems, from business and healthcare solutions to AI-powered systems. My current focus is on full-stack development, AI applications, and intelligent automation, while continuously expanding my knowledge in cloud technologies, RAG systems, AI agents, and robotics.
 
 ## Tech Stack
 
-**Backend**
+### Backend
 - C#
 - ASP.NET Core
 - Node.js
 - SQL
 
-**Frontend**
+### Frontend
 - React
 - TypeScript
 - HTML/CSS
 
-**AI & Data**
+### AI & Data
 - Python
 - Scikit-learn
 - TensorFlow
 - Power BI
 - PostgreSQL
 
-## Featured Projects
+## Current Focus
+- Full-stack application development
+- AI-powered software solutions
+- Data analytics and visualization
+- RAG and AI agent systems
 
-### MediClaim AI
-AI-powered medical document and claims analysis platform with document processing, claim risk assessment, and RAG-based document Q&A.
-
-### Gas Sensor Drift Analysis
-Machine learning and PCA-based analysis of gas sensor drift using clustering and dimensionality reduction techniques.
+## Featured Project
+🚀 **MediClaim AI** – AI-powered medical document and claims analysis platform built with React, ASP.NET Core, PostgreSQL, and Retrieval-Augmented Generation (RAG).
 
 ## Connect
-
 LinkedIn: www.linkedin.com/in/arjunck
