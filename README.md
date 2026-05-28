@@ -5,7 +5,7 @@ Full Stack Developer focused on .NET, React, SQL, and AI-powered applications.
 I enjoy building software that combines data, automation, and AI to solve real-world problems. Currently exploring RAG systems, AI agents, cloud technologies, and robotics.
 
 ### Tech
-C# • ASP.NET Core • React • TypeScript • Python • PostgreSQL • Power BI
+C# • ASP.NET Core • React • TypeScript • Python • PostgreSQL • SQL • Power BI
 
 ### Current Project
  MediClaim AI – Medical document intelligence and claims analysis platform
