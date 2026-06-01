@@ -1,37 +1,26 @@
-# Hi, I'm Arjun 
+# Hi, I'm Arjun
 
-Full Stack Developer based in Ireland with an interest in building practical software solutions using modern web technologies, data analytics, and AI.
+Full Stack Developer and AI Engineer based in Ireland.
 
-I enjoy developing applications that solve real-world problems, from business and healthcare solutions to AI-powered systems. My current focus is on full-stack development, AI applications, and intelligent automation, while continuously expanding my knowledge in cloud technologies, RAG systems, AI agents, and robotics.
+I build AI-powered applications, intelligent agents, and machine learning systems that solve real-world problems. My work focuses on production AI, retrieval-augmented generation (RAG), automation, and data-driven products.
 
-## Tech Stack
+Currently exploring the intersection of AI, robotics, and on-device intelligence.
 
-### Backend
-- C#
-- ASP.NET Core
-- Node.js
-- SQL
+## Technologies
 
-### Frontend
-- React
-- TypeScript
-- HTML/CSS
+Python • PyTorch • React • Angular • ASP.NET Core • PostgreSQL • SQL • LangGraph • RAG • Docker
 
-### AI & Data
-- Python
-- Scikit-learn
-- TensorFlow
-- Power BI
-- PostgreSQL
+## Current Projects
 
-## Current Focus
-- Full-stack application development
-- AI-powered software solutions
-- Data analytics and visualization
-- RAG and AI agent systems
+- UAV Energy Intelligence Platform
+- Enterprise RAG Platform
+- Multi-Agent Research Assistant
+- On-Device AI Systems
 
-## Featured Project
-🚀 **MediClaim AI** – AI-powered medical document and claims analysis platform built with React, ASP.NET Core, PostgreSQL, and Retrieval-Augmented Generation (RAG).
+## Interests
+
+AI Engineering • Intelligent Agents • Robotics • Machine Learning Systems
 
 ## Connect
+
 LinkedIn: www.linkedin.com/in/arjunck
