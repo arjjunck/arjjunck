@@ -27,8 +27,3 @@ Currently exploring the intersection of AI, robotics, and on-device intelligence
 - Multi-Agent Research Assistant
 - On-Device AI Systems
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjunck&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunck&layout=compact&theme=tokyonight)
