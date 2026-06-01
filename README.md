@@ -6,7 +6,7 @@ I build AI-powered applications, intelligent agents, and machine learning system
 
 Currently exploring the intersection of AI, robotics, and on-device intelligence.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arjun_Krishna-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arjunck/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arjun_Krishna-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arjjunck/)
 [![Location](https://img.shields.io/badge/Location-Ireland-green?style=for-the-badge)](#)
 
 ## Technologies
