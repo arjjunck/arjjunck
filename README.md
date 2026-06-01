@@ -23,10 +23,10 @@ Currently exploring the intersection of AI, robotics, and on-device intelligence
 
 ## Current Projects
 
-- 🚁 UAV Energy Intelligence Platform
-- 📚 Enterprise RAG Platform
-- 🤖 Multi-Agent Research Assistant
-- 🍎 On-Device AI Systems
+- UAV Energy Intelligence Platform
+- Enterprise RAG Platform
+- Multi-Agent Research Assistant
+- On-Device AI Systems
 
 ## Interests
 
