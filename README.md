@@ -1,33 +1,44 @@
 # Hi, I'm Arjun
 
-Full Stack Developer and AI Engineer based in Ireland.
+Full Stack Developer and AI Engineer based in Cork, Ireland.
 
-I build AI-powered applications, intelligent agents, and machine learning systems that solve real-world problems. My work focuses on production AI, RAG systems, intelligent automation, and data-driven products.
+I build production backend systems, REST APIs, and AI-assisted applications.
+3+ years shipping across healthcare and logistics — ASP.NET Core, FastAPI, React,
+PostgreSQL, Python. Currently finishing an MSc in Data Science and Analytics at
+Munster Technological University (First Class Honours).
 
-Currently exploring the intersection of AI, robotics, and on-device intelligence.
+## What I've built
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arjun_Krishna-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arjjunck/)
-[![Location](https://img.shields.io/badge/Location-Ireland-green?style=for-the-badge)](#)
+**[MediClaim AI](https://github.com/arjjunck/med-claim-ai)** — Full stack insurance
+claims platform with RAG-based document Q&A, rule-based risk classification, JWT auth,
+and a React dashboard. Stack: React · TypeScript · ASP.NET Core · PostgreSQL ·
+Semantic Kernel.
+
+**[Analytics MCP Server](https://github.com/arjjunck/analytics-mcp-server)** — Model
+Context Protocol server that exposes internal analytics data to AI coding tools
+(Cursor, Windsurf, Zed). Backed by PostgreSQL, dbt, Airflow, and Kafka for real-time
+event ingestion. 15/15 smoke tests passing.
+
+**[Defect Detection — Pill QC](https://github.com/arjjunck/defect-detection-pill)** —
+Anomaly detection system for pharmaceutical quality inspection using a PyTorch
+autoencoder and the MVTec AD dataset.
 
 ## Technologies
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square)
-
-## Current Projects
-
-- UAV Energy Intelligence Platform
-- Enterprise RAG Platform
-- Multi-Agent Research Assistant
-- On-Device AI Systems
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
 ## Interests
 
-AI Engineering • Intelligent Agents • Robotics • Machine Learning • Full-Stack Development
+Backend engineering · AI applications · RAG pipelines · MCP servers · Data engineering
+
+---
+
+📍 Cork, Ireland &nbsp;|&nbsp; Open to roles in Ireland
+&nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/arjjunck/)
+&nbsp;|&nbsp; [Portfolio](https://arjjunck.vercel.app)
