@@ -10,9 +10,11 @@ Munster Technological University (First Class Honours).
 ## What I've built
 
 **[MediClaim AI](https://github.com/arjjunck/med-claim-ai)** — Full stack insurance
-claims platform with RAG-based document Q&A, rule-based risk classification, JWT auth,
-and a React dashboard. Stack: React · TypeScript · ASP.NET Core · PostgreSQL ·
-Semantic Kernel.
+claims platform with RAG-based document Q&A (NVIDIA Nemotron embeddings and LLM,
+page-level source citations), rule-based claim risk classification, JWT auth, and a
+React dashboard. Dockerised and deployed on Azure Container Apps.
+[Live demo](https://mediclaim-web.thankfulflower-e7d8ef35.switzerlandnorth.azurecontainerapps.io)
+Stack: React · TypeScript · ASP.NET Core · PostgreSQL · Docker · Azure.
 
 **[Analytics MCP Server](https://github.com/arjjunck/analytics-mcp-server)** — Model
 Context Protocol server that exposes internal analytics data to AI coding tools
@@ -31,11 +33,12 @@ autoencoder and the MVTec AD dataset.
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
 ## Interests
 
-Backend engineering · AI applications · RAG pipelines · MCP servers · Data engineering
+Backend engineering · AI applications · LLMs · RAG pipelines · MCP servers · Data engineering
 
 ---
 
