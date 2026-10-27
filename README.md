@@ -1,5 +1,10 @@
 # Hi, I'm Arjun
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/journey-dark.svg">
+  <img src="./assets/journey-light.svg" width="480" alt="Animated pixel dinosaur: mechanical engineering, then software, then data, cloud and RAG">
+</picture>
+
 Full Stack Developer and AI Engineer based in Cork, Ireland.
 
 I build production backend systems, REST APIs, and AI-assisted applications.
